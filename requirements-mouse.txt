@@ -1,0 +1,2 @@
+-r requirements.txt
+PyAutoGUI==0.9.54
