@@ -11,3 +11,7 @@ imagens/
 camarao.png
 flexoes.py
 projetor.py
+
+# Website dependencies and private previews
+node_modules/
+private-backups/

@@ -70,3 +70,12 @@ To calibrate, compare the displayed distance in a comfortable position with the 
 Four automated tests passed. Both models loaded and processed an empty image; a local webcam returned 640 × 480 frames without recording. Gesture interaction, posture calibration, sound and optional mouse control still require manual validation. No real demo video has been recorded yet.
 
 Run the test command above to check the core logic. Model binaries, virtual environments, caches and old media are excluded from the repository; see the official model documentation linked above.
+
+
+## Site do projeto / Project website
+
+[Apresentação, prints, instalação e download / Overview, screenshots, setup and download](https://fwestarb.github.io/projeto-camera/).
+
+Código do site: [website](website). Publicação e testes: [docs/SITE.md](docs/SITE.md).
+
+Outros projetos / Other projects: [ESP32 Tera](https://fwestarb.github.io/esp32-tera/) · [GhostReply](https://fwestarb.github.io/ghostreply/) · [Projeto Câmera](https://fwestarb.github.io/projeto-camera/).

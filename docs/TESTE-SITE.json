@@ -1,0 +1,67 @@
+{
+  "url": "http://127.0.0.1:8810/",
+  "http": 200,
+  "fonts": true,
+  "interactiveSymbol": true,
+  "layouts": [
+    {
+      "language": "pt",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "pt",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "pt",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "pt",
+      "width": 1440,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "width": 320,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "width": 768,
+      "overflow": false
+    },
+    {
+      "language": "en",
+      "width": 1440,
+      "overflow": false
+    }
+  ],
+  "languagePersistence": true,
+  "selectorKeyboard": true,
+  "clipboard": true,
+  "faq": true,
+  "webglComponents": true,
+  "galleryKeyboard": true,
+  "verticalScroll": true,
+  "solidBackground": true,
+  "download": {
+    "sha256": "e6bbac7725e5246d9ce9a69dbe471a5dbbd6abe3ca86cf1bfc1e4c8641a093eb",
+    "verified": true,
+    "loader": true,
+    "corruptFileRejected": true,
+    "networkFailureHandled": true,
+    "cancellation": true
+  },
+  "reducedMotion": true,
+  "noWebGLFallback": true,
+  "javascriptErrors": []
+}
